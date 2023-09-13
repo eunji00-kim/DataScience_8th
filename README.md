@@ -19,4 +19,5 @@
 * 계속해서 성장할 수 있는 자기 주도형 학습 습관을 마련할 수 있음.
 
 🔗공고 링크
-네이버 부스트코스 코딩스터디 8기 데이터사이언스 모집 공고 <https://post.naver.com/viewer/postView.naver?volumeNo=34518834&memberNo=34635212&navigationType=push>
+
+[네이버 부스트코스 코딩스터디 8기 데이터사이언스 모집 공고](https://post.naver.com/viewer/postView.naver?volumeNo=34518834&memberNo=34635212&navigationType=push)
